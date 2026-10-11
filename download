@@ -1,0 +1,5 @@
+__pycache__/
+node_modules/
+udhr1/
+udhr2/
+.ipynb_checkpoints/
